@@ -1,2 +1,2 @@
-# sweet-treat-website
+# sweet-treat-corner-website
 My first web development project using HTML and CSS.
