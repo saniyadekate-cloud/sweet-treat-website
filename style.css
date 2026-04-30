@@ -118,7 +118,7 @@ flex:1;
 /* STICKY EFFECT */
 .sticky-card{
 position:sticky;
-top:100px;   /* 👈 this makes it stick while scrolling */
+top:100px;   
 
 background: #ecc7d6;
 color:rgb(82, 31, 43);
@@ -131,7 +131,7 @@ text-align:center;
 width:100%;
 border-radius:10px;
 margin:10px 0;
-height:220px;     /* 👈 reduce height */
+height:220px;  
 object-fit:cover;
 
 }
